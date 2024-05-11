@@ -1,0 +1,1 @@
+{"coloured_tiles": {"frames": [[0.0, 0.0, 16.0, 16.0], [32.0, 0.0, 16.0, 16.0], [0.0, 16.0, 16.0, 16.0], [32.0, 16.0, 16.0, 16.0]], "colour_key": "#000000", "filter": "NEAREST", "swizzle": "BRGA", "shader": "default"}}
